@@ -190,6 +190,10 @@ body {
   display: none;
 }
 
+.required_star{
+  color: red;
+}
+
 @media (max-width: 768px) {
   .split-screen {
     flex-direction: column; 
